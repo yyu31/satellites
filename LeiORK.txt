@@ -1,2 +1,8 @@
-Game Description and mechanics -- Thursday 03/01/2017 (2 hours)
-Foundamental Elements --Thursday 03/01/2017 (1 hour)
+Schedule and deliverables:
+
+Game Description and mechanics -- Thursday 03/01/2017 (2 hours)(done)
+Foundamental Elements --Thursday 03/01/2017 (1 hour)(done)
+
+Code research
+mechanics: planet rotating-- Wednsday 03/08/2017(estimate2 hour)
+AI -- Wednsday 03/08/2017(estimate2 hour)
