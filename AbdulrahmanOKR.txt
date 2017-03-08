@@ -1,0 +1,8 @@
+Schedule and deliverables:
+
+Hex Models -- Friday 10PM (Estimate 1 hour)
+Satelite Models - Friday 11PM (Estimate 1 hour)
+Game background - Sunday 5PM (Esimate 2 hours)
+Player controls 
+	- Movement - Tuesday 5PM(1 hours)
+	- Satelite Collection - Wednesday 11PM (2 hours)
