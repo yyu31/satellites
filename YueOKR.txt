@@ -3,13 +3,13 @@ Schedule and deliverables:
 Universe Texture -- Wednesday 12PM (Estimate 2 hours)
 
 Models:
-	-- Star Wednesday  1PM (Estimate 1 hour)
-	-- Planet Wednesday  2PM (Estimate 1 hour)
-	-- Meteor Wednesday  3PM (Estimate 1 hour)
-	-- Black Hole Wednesday  4PM (Estimate 1 hour)
+	Star -- Wednesday  1PM (Estimate 1 hour)
+	Planet -- Wednesday  2PM (Estimate 1 hour)
+	Meteor -- Wednesday  3PM (Estimate 1 hour)
+	Black Hole -- Wednesday  4PM (Estimate 1 hour)
 
 Code Research:
-	-- Turn-based Wednesday 11PM (Estimate 3 hours)
-	-- Change Maps Thursday 11PM (Estimate 3 hours)
+	Turn-based --  Wednesday 11PM (Estimate 3 hours)
+	Change Maps -- Thursday 11PM (Estimate 3 hours)
 
 Level Desgin -- Friday 3PM (Estimate 2 hours)
